@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "name": "Tools",
+    "discount_type": "2+ cheapest product",
+    "value": "0.2"
+  },
+  {
+    "id": "2",
+    "name": "Switches",
+    "discount_type": "+1",
+    "value": "5"
+  }
+]
