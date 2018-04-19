@@ -44,6 +44,7 @@ but brings the following extra properties:
 ### New property messages
 - messages (all applied discounts in text format)
 
+### Example return:
 ```
 {
 	"order": {
